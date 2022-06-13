@@ -114,7 +114,7 @@ namespace Kerites
             Console.WriteLine($"Az utolsó telek házszáma: {feladat_3(Telek.lista).Item2}");
 
             Console.WriteLine("4. feladat:");
-            Console.WriteLine($"{feladat_4(Telek.paratlan_lista)}");
+            //Console.WriteLine($"{feladat_4(Telek.paratlan_lista)}");
 
             Console.WriteLine("5. feladat:");
             Console.WriteLine("Adjon meg egy házszámot!");
